@@ -43,7 +43,7 @@ The pipeline is organized into five major stages:
 
 ## System Overview
 
-![System Overview](images/flows/creature_pipeline.jpg)
+![System Overview](images/flows/creature_pipeline.png)
 
 The workflow translates a creature concept into a reusable production asset through a staged pipeline of design, training, validation, and integration.
 
@@ -51,7 +51,7 @@ The workflow translates a creature concept into a reusable production asset thro
 
 ## Concept Development
 
-![Hero Design](images/mothman/mm_final_design.jpg)
+![Hero Design](images/mothman/mm_final_design.png)
 
 The pipeline begins with a defined hero design used as the visual anchor for all downstream steps. The goal at this stage is not broad exploration, but selection of a stable identity that can support dataset creation and training.
 
@@ -136,7 +136,7 @@ This stage functions as validation rather than simple output generation. The goa
 <h2>➜</h2>
 </td>
 <td align="center" bgcolor="#3f4a54">
-<img src="images/mothman/final_01.jpg" height="220"/>
+<img src="images/mothman/final_01.png" height="220"/>
 <br/><sub>Final Composite</sub>
 </td>
 </tr>
